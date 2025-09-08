@@ -1,1 +1,1 @@
-math.random()
+math.random() + 1
