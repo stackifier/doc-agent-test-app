@@ -1,4 +1,4 @@
-print("HELLO WORLD!!!!")
+print("HELLO WORLD this is very weird")
 
 print("CALCULATE TIME DIFFERENCE")
 
